@@ -1,0 +1,13 @@
+{
+    "name": "com.noderim.restlesslib",
+    "version": "0.0.1",
+    "displayName": "Restless Lib",
+    "description": "Restless extensions Library",
+    "unity": "2022.2",
+    "dependencies": {},
+    "keywords": ["library", "unity", "custom"],
+    "author": {
+      "name": "Noderim",
+      "url": "https://github.com/NodeNameA/Restless-Engine/com.noderim.restlesslib"
+    }
+}

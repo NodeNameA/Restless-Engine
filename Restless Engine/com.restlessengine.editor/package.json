@@ -1,0 +1,13 @@
+{
+    "name": "com.restless.engine",
+    "version": "0.0.2",
+    "displayName": "Restless Engine",
+    "description": "A lightweight engine for Unity projects.",
+    "unity": "2022.2",
+    "dependencies": {},
+    "keywords": ["engine", "unity", "custom"],
+    "author": {
+      "name": "Adam Moskała",
+      "url": "https://github.com/NodeNameA/Restless-Engine"
+    }
+}
